@@ -1,1 +1,1 @@
-(javscript is amazing)
+(javascript is amazing )
