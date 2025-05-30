@@ -1,5 +1,4 @@
-//This script prints(javascript is amazing )
+// This script prints (javascript)
+const MyVar='javascript is amazing';
 
-const Myvar ='javascript is amazing';
-
-console.log (Myvar);
+console.log(myVar);
